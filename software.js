@@ -2,6 +2,13 @@
 const softwareInfo = {
     softwares: [
         {
+            title: 'ZREC',
+            link: 'softwares/zrec.html',
+            des: 'ZREC is a zlib (p)recompressor',
+            lang: 'Pascal|Closed Source',
+            plat: 'Windows (64bit)'
+        },
+        {
             title: 'PassMan',
             link: 'softwares/passman.html',
             des: 'PassMan is a password manager for everyday use',

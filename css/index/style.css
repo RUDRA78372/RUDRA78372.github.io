@@ -123,12 +123,12 @@ main .cards .card-container .card-content a {
   color: black;
 }
 
-main .cards .soft {
+main .cards .softwares {
   background-color: #2C3E50;
   color: white;
 }
 
-main .cards .soft a {
+main .cards .softwares a {
   color: white !important;
 }
 

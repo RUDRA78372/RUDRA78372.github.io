@@ -9,6 +9,13 @@ const softwareInfo = {
             plat: 'Android/Windows (32bit)'
         },
         {
+            title: 'Image2PDF',
+            link: 'softwares/image2pdf.html',
+            des: 'Converts a bunch of images to a single pdf file.',
+            lang: 'Pascal',
+            plat: 'Windows (32bit)'
+        },
+        {
             title: 'Netlock',
             link: 'https://github.com/RUDRA78372/Netlock',
             des: 'A simple program to block websites for your device',

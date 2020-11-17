@@ -3,7 +3,7 @@ const softwareInfo = {
     softwares: [
         {
             title: 'PassMan',
-            link: 'software-pages/passman.html',
+            link: 'softwares/passman.html',
             des: 'PassMan is a password manager for everyday use',
             lang: 'Pascal',
             plat: 'Adnroid/Windows (32bit)'

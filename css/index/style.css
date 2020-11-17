@@ -123,12 +123,12 @@ main .cards .card-container .card-content a {
   color: black;
 }
 
-main .cards .blog {
+main .cards .soft {
   background-color: #2C3E50;
   color: white;
 }
 
-main .cards .blog a {
+main .cards .soft a {
   color: white !important;
 }
 

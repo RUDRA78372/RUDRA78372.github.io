@@ -6,7 +6,7 @@ const softwareInfo = {
             link: 'software-pages/passman.html',
             des: 'PassMan is a password manager for everyday use',
             lang: 'Pascal',
-            plat: 'Windows (64bit)'
+            plat: 'Adnroid/Windows (32bit)'
         },
         {
             title: 'Netlock',

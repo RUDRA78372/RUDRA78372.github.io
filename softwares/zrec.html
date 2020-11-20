@@ -60,7 +60,7 @@
 <br>
 ZREC has two versions currently.<br> ZREC v1 (zrec.exe) is stable can be used to precompress files with zlib headers. A lot of games and pdf files contain zlib streams with headers and zrec can be used to precompress them.<br> ZREC v2 (zrec2.exe) is beta but can still be used to precompress and it can detect zlib streams without headers too. With the help of preflate, it can precompress most of the zlibbed files with ease.<br> Combining slow mode and preflate ought to provide the best inflation. 
 <br><br>
-For example, we can compress <a href=" https://www.tutorialspoint.com/pascal/pascal_tutorial.pdf " target="_blank">this pdf file</a> with 2.10MB size using 7z(LZMA,32MB,Solid,273) and get 1.49MB.<br> But if we precompress the pdf with zrec, we get 24.3MB as output and then we can compress that 24.3MB file using 7z(same options as before) and get 935KB as output.<br>
+For example, we can compress <a href=" https://www.tutorialspoint.com/pascal/pascal_tutorial.pdf " target="_blank">this pdf file</a> with 899KB size using 7z(LZMA,32MB,Solid,273) and get 827KB.<br> But if we precompress the pdf with zrec, we get 2.25MB as output and then we can compress that 2.25MB file using 7z(same options as before) and get 545KB as output.<br>
 <br>
 To know about command line options, run the program without any arguments.
 <br>

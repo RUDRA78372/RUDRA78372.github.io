@@ -23,7 +23,7 @@ const softwareInfo = {
             plat: 'Windows (32bit)'
         },
         {  title: 'Image2PDF Android',
-            link: 'softwares/image2pdfandroid.html',
+            link: 'softwares/image2pdfa.html',
             des: 'Converts a bunch of images to a single pdf file.',
             lang: 'Pascal',
             plat: 'Android'

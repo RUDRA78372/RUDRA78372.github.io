@@ -22,6 +22,12 @@ const softwareInfo = {
             lang: 'Pascal',
             plat: 'Windows (32bit)'
         },
+        {  title: 'Image2PDF Android',
+            link: 'softwares/image2pdfandroid.html',
+            des: 'Converts a bunch of images to a single pdf file.',
+            lang: 'Pascal',
+            plat: 'Android'
+        },
         {
             title: 'Netlock',
             link: 'https://github.com/RUDRA78372/Netlock',

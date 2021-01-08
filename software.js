@@ -20,7 +20,7 @@ const softwareInfo = {
             link: 'softwares/image2pdf.html',
             des: 'Converts a bunch of images to a single pdf file.',
             lang: 'Pascal',
-            plat: 'Windows (32bit)'
+            plat: 'Windows'
         },
         {  title: 'Image2PDF Android',
             link: 'softwares/image2pdfa.html',

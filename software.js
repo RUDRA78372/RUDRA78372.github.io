@@ -22,6 +22,13 @@ const softwareInfo = {
             lang: 'Pascal',
             plat: 'Windows'
         },
+         {
+            title: 'The Chromium Protector',
+            link: 'https://github.com/RUDRA78372/Closed-Source-Programs/tree/main/The-Chromium-Protector',
+            des: 'A Password Protector for your browsers',
+            lang: 'Pascal|Closed Source',
+            plat: 'Windows (64bit)'
+        },
         {  title: 'Image2PDF Android',
             link: 'softwares/image2pdfa.html',
             des: 'Converts a bunch of images to a single pdf file.',
